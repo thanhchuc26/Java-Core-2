@@ -1,0 +1,7 @@
+create table SANPHAM(
+MaSP varchar(10) primary key,
+TenSP varchar(50),
+MaLoaiSP varchar(20),
+GiaBan float,
+SoLuong int
+)

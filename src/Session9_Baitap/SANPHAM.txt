@@ -1,0 +1,7 @@
+Dong 1: 
+Ma san pham: 1
+Ten san pham: 1
+Ma loai san pham: 1
+Gia ban: 1.0
+So luong: 1
+=================================================

@@ -1,0 +1,7 @@
+Dong 1: 
+Ma nhan vien: 1
+Ho ten nhan vien: 1
+Gioi tinh: Nam
+Que quan: 1
+Tuoi: 1
+=================================================

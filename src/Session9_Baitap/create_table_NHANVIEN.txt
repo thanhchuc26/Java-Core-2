@@ -1,0 +1,7 @@
+create table NHANVIEN(
+MaNV varchar(10) primary key,
+HoTenNV varchar(50),
+GioiTinh bit,
+QueQuan varchar(50),
+Tuoi int
+)

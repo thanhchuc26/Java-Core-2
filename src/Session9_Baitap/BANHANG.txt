@@ -1,0 +1,5 @@
+Dong 1: 
+Ma nhan vien: 1
+Ma san pham: 1
+So luong da ban: 1
+=================================================

@@ -1,0 +1,4 @@
+create table LOAISP(
+MaLoaiSP varchar(10) primary key,
+TenLoaiSP varchar(50)
+)

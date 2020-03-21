@@ -1,0 +1,6 @@
+create table BANHANG(
+MaNV varchar(10),
+MaSP varchar(10),
+SoLuongDaBan int
+primary key(MaNV, MaSP)
+)

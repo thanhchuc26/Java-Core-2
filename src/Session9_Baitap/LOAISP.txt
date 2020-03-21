@@ -1,0 +1,4 @@
+Dong 1: 
+Ma loai san pham: 1
+Ten loai san pham: 1
+=================================================
